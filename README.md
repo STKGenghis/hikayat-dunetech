@@ -100,6 +100,10 @@ Scenario description...
 2. Prompt 2?
 ```
 
+## Origin
+
+Hikayat — the name and the concept of using interactive storytelling to make AI-safety risks concrete — was originated by Saima Tariq Khan, who also wrote the 18 scenarios. This repository is the React interface built for the Dubai hackathon prototype (see Contributors below for that implementation's credits). An independent, actively developed rebuild lives at [github.com/STKGenghis/hikayat](https://github.com/STKGenghis/hikayat).
+
 ## Contributors
 
 - **Chaitanya Mittal** - Responsible for the entire implementation and code
